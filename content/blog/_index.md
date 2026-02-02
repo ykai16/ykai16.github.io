@@ -1,4 +1,5 @@
 ---
 title: Blog
-view: article-grid
 ---
+
+Thoughts on computational biology and research.

@@ -1,0 +1,3 @@
+# Override Hugo Blox default translations
+- id: about_me
+  translation: Summary

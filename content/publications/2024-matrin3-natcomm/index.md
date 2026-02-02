@@ -1,0 +1,18 @@
+---
+title: "[21] Matrin3 mediates differentiation through stabilizing chromatin loop-domain interactions and YY1 mediated enhancer-promoter interactions"
+authors:
+  - T Liu
+  - Q Zhu
+  - Y Kai
+  - T Bingham
+  - S Wang
+  - HJ Cha
+  - S Mehta
+  - TM Schlaeger
+  - et al.
+date: "2024-02-01"
+publication_types: ["article-journal"]
+publication: "*Nature Communications* 15 (1), 1274"
+abstract: ""
+featured: false
+---
