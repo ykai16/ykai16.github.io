@@ -1,8 +1,9 @@
 ---
 title: "[22] O-GlcNAcylation of MITF regulates its activity and CDK4/6 inhibitor resistance in breast cancer"
 featured_title: "Sugar Coating Drives Drug Resistance in Breast Cancer"
-authors: ["Y Zhang", "S Zhou", "me", "Y Zhang", "C Peng", "Z Li", "MJ Mughal", "B Julie", "et al."]
+authors: ["Y Zhang*", "S Zhou*", "Yan Kai*", "Y Zhang", "C Peng", "Z Li", "MJ Mughal", "B Julie", "et al."]
 date: "2024-07-01"
+weight: 3
 publication_types: ["article-journal"]
 publication: "*Nature Communications* 15 (1), 5597"
 featured: true

@@ -3,6 +3,7 @@ title: "[19] Identifying Quantitatively Differential Chromosomal Compartmentaliz
 featured_title: "Detecting Compartment Switches in the 3D Genome"
 authors: ["me", "N Liu", "SH Orkin", "GC Yuan"]
 date: "2023-01-01"
+weight: 6
 publication_types: ["article-journal"]
 publication: "*BMC Genomics*"
 featured: true

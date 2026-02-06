@@ -3,6 +3,7 @@ title: "[8] Loss of KDM6A Activates Super-Enhancers to Induce Gender-Specific Sq
 featured_title: "How Losing an Epigenetic Eraser Drives Pancreatic Cancer"
 authors: ["J Andricovich", "S Perkail", "me", "N Casasanta", "W Peng", "A Tzatsos"]
 date: "2018-03-01"
+weight: 17
 publication_types: ["article-journal"]
 publication: "*Cancer Cell* 33 (3), 512-526.e8"
 featured: true

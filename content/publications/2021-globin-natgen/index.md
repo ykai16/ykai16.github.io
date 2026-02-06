@@ -3,6 +3,7 @@ title: "[14] Transcription factor competition at the γ-globin promoters control
 featured_title: "The Molecular Tug-of-War Behind Hemoglobin Switching"
 authors: ["N Liu", "S Xu", "Q Yao", "Q Zhu", "me", "JY Hsu", "P Sakon", "L Pinello", "GC Yuan", "et al."]
 date: "2021-04-01"
+weight: 11
 publication_types: ["article-journal"]
 publication: "*Nature Genetics* 53 (4), 511-520"
 featured: true

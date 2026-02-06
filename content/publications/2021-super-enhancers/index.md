@@ -2,7 +2,8 @@
 title: "[13] Mapping the evolving landscape of super-enhancers during cell differentiation"
 featured_title: "Charting the Evolving Landscape of Super-Enhancers"
 authors: ["me", "BE Li", "M Zhu", "GY Li", "F Chen", "Y Han", "HJ Cha", "SH Orkin", "W Cai", "et al."]
-date: "2021-01-01"
+date: "2021-01-02"
+weight: 12
 publication_types: ["article-journal"]
 publication: "*Genome Biology* 22, 1-21"
 featured: true

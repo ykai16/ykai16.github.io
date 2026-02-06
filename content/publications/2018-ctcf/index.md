@@ -3,6 +3,7 @@ title: "[5] Predicting CTCF-mediated chromatin interactions by integrating genom
 featured_title: "Predicting the 3D Genome with Machine Learning"
 authors: ["me", "J Andricovich", "Z Zeng", "J Zhu", "A Tzatsos", "W Peng"]
 date: "2018-09-01"
+weight: 20
 publication_types: ["article-journal"]
 publication: "*Nature Communications* 9 (1), 4221"
 featured: true
