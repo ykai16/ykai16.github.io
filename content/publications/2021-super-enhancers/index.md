@@ -6,6 +6,8 @@ date: "2021-01-02"
 weight: 12
 publication_types: ["article-journal"]
 publication: "*Genome Biology* 22, 1-21"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/34526084/"
+url_dataset: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116862"
 featured: true
 image:
   caption: 'Super-enhancer Landscape'

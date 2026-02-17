@@ -6,6 +6,8 @@ date: "2021-04-01"
 weight: 11
 publication_types: ["article-journal"]
 publication: "*Nature Genetics* 53 (4), 511-520"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/33649594/"
+url_dataset: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150488"
 featured: true
 image:
   caption: 'Transcription Factor Competition'
