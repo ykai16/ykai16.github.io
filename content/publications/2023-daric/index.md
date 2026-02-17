@@ -8,6 +8,7 @@ publication_types: ["article-journal"]
 publication: "*BMC Genomics*"
 url_pdf: "https://pubmed.ncbi.nlm.nih.gov/37833630/"
 url_code: "https://github.com/ykai16/DARIC"
+url_dataset: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116862"
 featured: true
 image:
   caption: 'DARIC Analysis visualization'
