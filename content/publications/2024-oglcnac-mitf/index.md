@@ -6,6 +6,7 @@ date: "2024-07-01"
 weight: 3
 publication_types: ["article-journal"]
 publication: "*Nature Communications* 15 (1), 5597"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/38961064/"
 featured: true
 image:
   caption: 'MITF Modification'

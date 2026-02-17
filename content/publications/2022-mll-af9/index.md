@@ -13,6 +13,7 @@ date: "2022-03-02"
 weight: 7
 publication_types: ["article-journal"]
 publication: "*Molecular Cell* 82 (6), 1140-1155.e11"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/35245435/"
 abstract: ""
 featured: false
 ---

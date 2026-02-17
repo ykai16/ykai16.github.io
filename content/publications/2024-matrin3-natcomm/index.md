@@ -14,6 +14,8 @@ date: "2024-02-01"
 weight: 4
 publication_types: ["article-journal"]
 publication: "*Nature Communications* 15 (1), 1274"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/38341433/"
+url_dataset: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247105"
 abstract: ""
 featured: false
 ---

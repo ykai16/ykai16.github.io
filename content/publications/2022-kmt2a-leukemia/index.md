@@ -12,6 +12,7 @@ date: "2022-03-01"
 weight: 9
 publication_types: ["article-journal"]
 publication: "*Genes & Development* 36 (5-6), 368-389"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/35301220/"
 abstract: ""
 featured: false
 ---

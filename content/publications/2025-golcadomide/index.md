@@ -13,6 +13,7 @@ date: "2025-01-01"
 weight: 2
 publication_types: ["article-journal"]
 publication: "*Blood Cancer Discovery*"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/41182271/"
 abstract: ""
 featured: false
 ---
