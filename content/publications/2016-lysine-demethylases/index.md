@@ -8,6 +8,7 @@ date: "2016-09-01"
 weight: 22
 publication_types: ["article-journal"]
 publication: "*Experimental Hematology* 44 (9), 778-782"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/27208808/"
 abstract: ""
 featured: false
 ---

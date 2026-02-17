@@ -13,6 +13,7 @@ date: "2017-01-01"
 weight: 21
 publication_types: ["article-journal"]
 publication: "*F1000Research* 5"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/28357035/"
 abstract: ""
 featured: false
 ---
