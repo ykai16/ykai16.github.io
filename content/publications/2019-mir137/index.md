@@ -14,6 +14,7 @@ date: "2019-01-01"
 weight: 16
 publication_types: ["article-journal"]
 publication: "*Oncogene* 38 (4), 564"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/30166592/"
 abstract: ""
 featured: false
 ---

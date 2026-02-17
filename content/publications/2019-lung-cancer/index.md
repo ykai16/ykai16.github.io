@@ -13,6 +13,7 @@ date: "2019-12-01"
 weight: 15
 publication_types: ["article-journal"]
 publication: "*JCI Insight* 4 (24)"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/31852841/"
 abstract: ""
 featured: false
 ---

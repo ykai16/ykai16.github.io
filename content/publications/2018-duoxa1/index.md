@@ -15,6 +15,8 @@ date: "2018-01-01"
 weight: 19
 publication_types: ["article-journal"]
 publication: "*Cancer Letters*"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/29704517/"
+url_dataset: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98559"
 abstract: ""
 featured: false
 ---

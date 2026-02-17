@@ -6,6 +6,8 @@ date: "2018-03-01"
 weight: 17
 publication_types: ["article-journal"]
 publication: "*Cancer Cell* 33 (3), 512-526.e8"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/29533787/"
+url_dataset: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104739"
 featured: true
 image:
   caption: 'KDM6A in Pancreatic Cancer'
