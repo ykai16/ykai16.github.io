@@ -6,6 +6,8 @@ date: "2023-01-01"
 weight: 6
 publication_types: ["article-journal"]
 publication: "*BMC Genomics*"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/37833630/"
+url_code: "https://github.com/ykai16/DARIC"
 featured: true
 image:
   caption: 'DARIC Analysis visualization'

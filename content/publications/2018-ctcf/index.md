@@ -6,6 +6,8 @@ date: "2018-09-01"
 weight: 20
 publication_types: ["article-journal"]
 publication: "*Nature Communications* 9 (1), 4221"
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/30310060/"
+url_code: "https://github.com/ykai16/Lollipop"
 featured: true
 image:
   caption: 'CTCF Prediction Model'
