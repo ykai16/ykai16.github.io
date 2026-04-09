@@ -4,6 +4,9 @@ authors:
   - me
 date: 2026-04-08
 show_author_bio: false
+image:
+  filename: featured.png
+  focal_point: Smart
 ---
 
 Excited to share that our abstract on a novel **Ikaros/Aiolos transcriptional signature** in multiple myeloma has been accepted and will be presented at the **AACR Annual Meeting 2026** (April 17–22, San Diego, CA)!
