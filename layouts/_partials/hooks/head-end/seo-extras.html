@@ -1,0 +1,60 @@
+{{/* SEO: keywords meta tag */}}
+<meta name="keywords" content="Yan Kai, Yan Kai BMS, Yan Kai Bristol Myers Squibb, computational biology, AI drug discovery, multi-omics, bioinformatics, protein degraders, molecular glues, PROTAC, CELMoD, genomics, transcriptomics, epigenomics, machine learning biology, AI omics, multiple myeloma, cancer research, principal scientist, Harvard Medical School, Dana-Farber">
+
+{{/* SEO: canonical URL */}}
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* SEO: JSON-LD Person structured data (homepage only) */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yan Kai",
+  "url": "https://ykai16.github.io",
+  "image": "https://ykai16.github.io/authors/me/avatar.jpg",
+  "jobTitle": "Principal Scientist, AI x Omics",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Bristol Myers Squibb",
+    "url": "https://www.bms.com"
+  },
+  "alumniOf": [
+    {
+      "@type": "Organization",
+      "name": "Harvard Medical School"
+    },
+    {
+      "@type": "Organization",
+      "name": "Dana-Farber Cancer Institute"
+    },
+    {
+      "@type": "Organization",
+      "name": "George Washington University"
+    }
+  ],
+  "knowsAbout": [
+    "Computational Biology",
+    "Artificial Intelligence",
+    "Multi-omics Integration",
+    "Drug Discovery",
+    "Bioinformatics",
+    "Protein Degraders",
+    "Molecular Glues",
+    "PROTAC",
+    "CELMoD",
+    "Genomics",
+    "Epigenomics",
+    "Machine Learning",
+    "Large Language Models",
+    "Cancer Research",
+    "Multiple Myeloma"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/yan-kai/",
+    "https://scholar.google.com/citations?user=sAft8OkAAAAJ&hl=en"
+  ],
+  "description": "Yan Kai is a Principal Scientist at Bristol Myers Squibb (BMS) working at the intersection of AI and multi-omics for drug discovery. He develops machine learning methods for target identification, protein degrader design, and patient stratification."
+}
+</script>
+{{ end }}

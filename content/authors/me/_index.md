@@ -10,25 +10,24 @@ last_name: Kai
 superuser: true
 
 # Role/position/tagline
-role: Computational Biologist
+role: Principal Scientist, AI x Omics
 
 # Organizations/Affiliations to show on the biography block
 organizations:
-  - name: Dana-Farber Cancer Institute
-    url: https://www.dana-farber.org/
-  - name: Harvard University
-    url: https://www.harvard.edu/
+  - name: Bristol Myers Squibb
+    url: https://www.bms.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computational biologist specializing in bioinformatics, epigenetics, and statistical methods for genomics.
+bio: "Yan Kai is a Principal Scientist at Bristol Myers Squibb (BMS) specializing in AI, multi-omics, and computational biology for drug discovery. He develops machine learning methods for target identification, protein degrader design, and patient stratification using genomics, transcriptomics, and proteomics data."
 
 # Interests to show in About widget
 interests:
-  - Bioinformatics
+  - AI for Drug Discovery
+  - Multi-omics Integration
   - Computational Biology
-  - Epigenetics
-  - Statistics
-  - Genomics
+  - Protein Degraders & Molecular Glues
+  - Genomics & Epigenomics
+  - Large Language Models in Biology
 
 # Education
 education:

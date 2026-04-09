@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Computational Biologist"
+    tagline: "Principal Scientist, AI x Omics | Bristol Myers Squibb"
     # Site meta description for search engines and social sharing
-    description: "Yan Kai - Computational Biologist specializing in bioinformatics, epigenetics, and statistical methods for genomics research."
+    description: "Yan Kai — Principal Scientist at Bristol Myers Squibb (BMS) working at the intersection of AI and multi-omics for drug discovery. Expertise in computational biology, bioinformatics, protein degraders, molecular glues, and genomics. Previously at Harvard Medical School and Dana-Farber Cancer Institute."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)
