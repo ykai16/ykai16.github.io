@@ -1,5 +1,5 @@
 ---
-title: "Abstract accepted at AACR Annual Meeting 2026 in San Diego!"
+title: "Our multi-omics study revealing an RNA-seq Ikaros/Aiolos signature for CELMoD response in multiple myeloma is accepted at AACR 2026!"
 authors:
   - me
 date: 2026-04-08
