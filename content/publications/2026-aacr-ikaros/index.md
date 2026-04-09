@@ -2,7 +2,7 @@
 title: "[24] Development of a novel Ikaros/Aiolos transcriptional signature and correlation with patient response in multiple myeloma patients treated with CELMoDs"
 featured_title: "An RNA-seq Biomarker for CELMoD Response in Multiple Myeloma"
 authors: ["S Tamim", "N Stong", "Y Kai", "D Jankeel", "B Gaffney", "A Kurtova", "AR Perez", "C Fontanillo", "TT Chow", "PR Hagner", "D Jeyaraju", "CC Bjorklund", "M Amatangelo", "K Wang", "A Gandhi", "M Ortiz-Estevez"]
-date: "2026-04-17"
+date: "2026-04-08"
 weight: 1
 publication_types: ["paper-conference"]
 publication: "*Cancer Research* 86 (7 Suppl), Abstract nr 2714. AACR Annual Meeting 2026; San Diego, CA"
