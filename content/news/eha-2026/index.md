@@ -4,6 +4,9 @@ authors:
   - me
 date: 2026-06-11
 show_author_bio: false
+image:
+  filename: featured.jpg
+  focal_point: Smart
 ---
 
 Excited to share that I presented our work on HbF induction by **BMS-986470**, a novel CELMoD agent for sickle cell disease, at the **European Hematology Association (EHA) Annual Congress 2026** in Stockholm, Sweden.
