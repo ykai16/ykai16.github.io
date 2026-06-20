@@ -46,7 +46,7 @@ profiles:
     label: Google Scholar
 ---
 
-I am an **AI × Omics** researcher at the frontier of drug discovery and computational biology. As a Principal Scientist at **Bristol Myers Squibb (BMS)**, I lead efforts that integrate large-scale **genomics**, **multi-omics**, and artificial intelligence to accelerate the development of next-generation therapeutics.
+I am an **AI in drug discovery** researcher at the frontier of computational biology and computational biology. As a Principal Scientist at **Bristol Myers Squibb (BMS)**, I lead efforts that integrate large-scale **genomics**, **multi-omics**, and artificial intelligence to accelerate the development of next-generation therapeutics.
 
 My research is organized around three interconnected themes:
 
