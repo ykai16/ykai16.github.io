@@ -10,7 +10,7 @@ last_name: Kai
 superuser: true
 
 # Role/position/tagline
-role: Principal Scientist, AI x Omics
+role: Principal Scientist, AI in Drug Discovery
 
 # Organizations/Affiliations to show on the biography block
 organizations:
