@@ -1,6 +1,8 @@
 ---
 title: "[25] DISSECTING THE MOLECULAR BASIS OF POTENT HBF INDUCTION BY BMS-986470: A MECHANISTIC STUDY OF ZBTB7A/WIZ DUAL DEGRADATION"
 featured_title: "Molecular Basis of HbF Induction by BMS-986470: ZBTB7A/WIZ Dual Degradation"
+seo:
+  title: "BMS-986470 HbF Induction via ZBTB7A/WIZ Degradation"
 authors: ["Y Kai", "et al."]
 date: "2026-06-11"
 weight: 0

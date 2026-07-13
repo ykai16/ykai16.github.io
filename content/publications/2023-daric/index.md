@@ -1,6 +1,8 @@
 ---
 title: "[19] Identifying Quantitatively Differential Chromosomal Compartmentalization Changes and Their Biological Significance from Hi-C data using DARIC"
 featured_title: "Detecting Compartment Switches in the 3D Genome"
+seo:
+  title: "DARIC: 3D Genome Compartment Switch Analysis"
 authors: ["me", "N Liu", "SH Orkin", "GC Yuan"]
 date: "2023-01-01"
 weight: 6

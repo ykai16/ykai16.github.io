@@ -1,6 +1,8 @@
 ---
 title: "[15] Temporal resolution of gene derepression and proteome changes upon PROTAC-mediated degradation of BCL11A protein in erythroid cells"
 featured_title: "Real-Time Kinetics of Gene Derepression via PROTAC"
+seo:
+  title: "BCL11A PROTAC Reveals Hemoglobin Switching Kinetics"
 authors: ["S Mehta*", "A Buyanbat*", "Yan Kai*", "O Karayel", "SR Goldman", "D Seruggia", "et al."]
 date: "2022-01-01"
 weight: 10
