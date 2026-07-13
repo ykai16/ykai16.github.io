@@ -1,6 +1,8 @@
 ---
 title: "[5] Predicting CTCF-mediated chromatin interactions by integrating genomic and epigenomic features"
 featured_title: "Predicting the 3D Genome with Machine Learning"
+seo:
+  title: "Predicting CTCF Chromatin Loops with Machine Learning"
 authors: ["me", "J Andricovich", "Z Zeng", "J Zhu", "A Tzatsos", "W Peng"]
 date: "2018-09-01"
 weight: 20

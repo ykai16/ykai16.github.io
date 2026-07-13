@@ -129,7 +129,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "Yan Kai | AI Drug Discovery & Computational Biology"
     # For local_business identity type only
     location:
       address:
