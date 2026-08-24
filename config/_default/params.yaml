@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Principal Scientist, AI in Drug Discovery | Bristol Myers Squibb"
+    tagline: "Principal Scientist at Bristol Myers Squibb (BMS) | AI Drug Discovery"
     # Site meta description for search engines and social sharing
-    description: "Yan Kai — Principal Scientist at Bristol Myers Squibb (BMS) working at the intersection of AI and multi-omics for drug discovery. Expertise in computational biology, bioinformatics, protein degraders, molecular glues, and genomics. Previously at Harvard Medical School and Dana-Farber Cancer Institute."
+    description: "Yan Kai is a computational biologist and Principal Scientist at Bristol Myers Squibb (BMS), developing AI and multi-omics methods for drug discovery. His work spans bioinformatics, protein degraders, molecular glues, genomics, and translational science."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)
@@ -129,7 +129,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: "Yan Kai | AI Drug Discovery & Computational Biology"
+    title: "Yan Kai | BMS Principal Scientist | AI Drug Discovery"
     # For local_business identity type only
     location:
       address:

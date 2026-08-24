@@ -18,7 +18,7 @@ organizations:
     url: https://www.bms.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Yan Kai is a Principal Scientist at Bristol Myers Squibb (BMS) working at the intersection of AI, genomics, and multi-omics for drug discovery. His research spans targeted protein degradation (CELMoD agents, molecular glues, PROTACs), hemoglobinopathy biology (SCD, thalassemia, HbF reactivation), and AI agents for translational science."
+bio: "Yan Kai is a computational biologist and Principal Scientist at Bristol Myers Squibb (BMS), developing AI and multi-omics methods for drug discovery. His research spans targeted protein degradation (CELMoD agents, molecular glues, PROTACs), hemoglobinopathy biology (SCD, thalassemia, HbF reactivation), and AI agents for translational science."
 
 # Interests to show in About widget
 interests:
@@ -49,7 +49,7 @@ profiles:
     label: GitHub
 ---
 
-I am an **AI in drug discovery** researcher at the frontier of computational biology. As a Principal Scientist at **Bristol Myers Squibb (BMS)**, I lead efforts that integrate large-scale **genomics**, **multi-omics**, and artificial intelligence to accelerate the development of next-generation therapeutics.
+**Yan Kai is a computational biologist and Principal Scientist at Bristol Myers Squibb (BMS), developing AI and multi-omics methods for drug discovery.** I lead efforts that integrate large-scale **genomics**, **multi-omics**, and artificial intelligence to accelerate the development of next-generation therapeutics.
 
 My research is organized around three interconnected themes:
 
